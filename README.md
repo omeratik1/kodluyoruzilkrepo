@@ -2,7 +2,7 @@
 - Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitiminde oluşturduğumuz ilk repo . İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor. 
 
 
-![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg) 
+![Kodluyoruz Logo](https://raw.githubusercontent.com/omeratik1/kodluyoruzilkrepo/main/Screenshot%20(2).png) 
 ## Installation 
 --- 
 öncelikle projeyi klonlayın. [link](https://github.com/omeratik1/kodluyoruzilkrepo.git) 
